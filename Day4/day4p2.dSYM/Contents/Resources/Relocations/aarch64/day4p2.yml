@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shivendrasrinivas/ProgrammingProjects/AdventOfCode/Day4/day4p2'
+relocations:     []
+...
